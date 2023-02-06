@@ -13,4 +13,4 @@
 - ✔️ Gerador de Senhas
 
 ## Link para acesso
-https://duduandrade.github.io/gerador-senhas-js/
+https://duduandrade.github.io/gerador-de-senhas-js/
